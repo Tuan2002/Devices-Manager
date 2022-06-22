@@ -1,0 +1,4 @@
+Ma Thiet Bi; Ten Thiet Bi; Ngay Nhap; Gio Chieu; Trang Thai
+PJ1;Panasonic PW01;20/10/2019;5000;Dang su dung
+PJ2;Panasonic PW02W;20/10/2019;8000;Dang su dung
+PJ3;Sony UL200C;20/11/2014;10000;Het han su dung

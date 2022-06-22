@@ -1,0 +1,4 @@
+Ma Thiet Bi; Ten Thiet Bi; Ngay Nhap; Toc Do Quet; Trang Thai
+SC1;Canon SC1000;1/1/2019;10;Het han su dung
+SC2;Canon SC3000;1/1/2020;30;Dang su dung
+SC3;Brother CP10C;1/1/2021;50;Dang su dung

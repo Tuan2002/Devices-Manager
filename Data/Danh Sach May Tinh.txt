@@ -1,0 +1,5 @@
+Ma Thiet Bi; Ten Thiet Bi; Ngay Nhap; Trang Thai
+CP1;Dell XPS 13;20/10/2019;Dang su dung
+CP2;Lenovo T470s;20/08/2018;Dang su dung
+CP3;Lenovo X260;10/09/2015;Het han su dung
+CP4;Asus UX125;10/01/2021;Dang su dung

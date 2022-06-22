@@ -1,0 +1,4 @@
+Ma Thiet Bi; Ten Thiet Bi; Ngay Nhap; Mau Sac; Toc Do; Bo Nho; Diem Anh; So mau; Trang Thai;
+PRTB1;Canon G1010;01/01/2019;Xam;15;256;300;5000;Dang su dung;
+PRTB2;Canon G1200;01/01/2019;Trang;12;128;300;4000;Dang su dung;
+PRTB3;Brother BT-2100C;01/01/2017;Den;25;128;300;6000;Het han su dung;

@@ -1,0 +1,4 @@
+Ma Thiet Bi; Ten Thiet Bi; Ngay Nhap; Mau Sac; Toc Do; Bo Nho; Diem Anh; Trang Thai;
+PRTB1;Canon LP-E300;01/01/2019;Den;23;256;300;Dang su dung;
+PRTB2;Canon LP-P200;01/01/2019;Trang;35;128;300;Dang su dung;
+PRTB3;Brother BT-2100;01/01/2017;Den;25;128;300;Het han su dung;

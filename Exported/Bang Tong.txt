@@ -1,0 +1,37 @@
+       --------------- DANH SACH MAY TINH ---------------         
+  Ma May        Ten May          Ngay Nhap         Trang Thai     
+   CP1        Dell XPS 13        20/10/2019       Dang su dung    
+   CP2        Lenovo T470s       20/08/2018       Dang su dung    
+   CP3        Lenovo X260        10/09/2015     Het han su dung   
+   CP4         Asus UX125        10/01/2021       Dang su dung    
+
+             --------------- DANH SACH MAY CHIEU ---------------              
+  Ma May        Ten May          Ngay Nhap         Trang Thai      Thoi Gian  
+   PJ1       Panasonic PW01      20/10/2019       Dang su dung        5000    
+   PJ2      Panasonic PW02W      20/10/2019       Dang su dung        8000    
+   PJ3        Sony UL200C        20/11/2014     Het han su dung      10000    
+
+             --------------- DANH SACH MAY QUET ---------------               
+  Ma May        Ten May          Ngay Nhap         Trang Thai     Toc Do Quet 
+   SC1        Canon SC1000        1/1/2019      Het han su dung        10     
+   SC2        Canon SC3000        1/1/2020        Dang su dung         30     
+   SC3       Brother CP10C        1/1/2021        Dang su dung         50     
+
+                                --------------- DANH SACH MAY IM BW ---------------                                 
+  Ma May        Ten May          Ngay Nhap         Trang Thai      Mau Sac    Toc Do    Bo nho   Diem Anh 
+  PRTB1      Canon LP-E300       01/01/2019      Dang su dung;       Den        23       256        300     
+  PRTB2      Canon LP-P200       01/01/2019      Dang su dung;      Trang       35       128        300     
+  PRTB3     Brother BT-2100      01/01/2017     Het han su dung;     Den        25       128        300     
+
+                                      --------------- DANH SACH MAY IN MAU ---------------                                        
+  Ma May        Ten May          Ngay Nhap         Trang Thai      Mau Sac    Toc Do    Bo nho   Diem Anh     So Mau    
+  PRTB1       Canon G1010        01/01/2019      Dang su dung;       Xam        15       256        300        5000   
+  PRTB2       Canon G1200        01/01/2019      Dang su dung;      Trang       12       128        300        4000   
+  PRTB3     Brother BT-2100C     01/01/2017     Het han su dung;     Den        25       128        300        6000   
+
+--------------- DANH SACH CAC THIET BI HET HAN SU DUNG --------------- 
+  Ma May        Ten May          Ngay Nhap         Trang Thai     
+   CP3        Lenovo X260        10/09/2015     Het han su dung   
+   PJ3        Sony UL200C        20/11/2014     Het han su dung   
+   SC1        Canon SC1000        1/1/2019      Het han su dung   
+
